@@ -6,7 +6,7 @@
 
 <img src = "https://github.com/tobiasp25/tobiasp25/blob/main/maxresdefault.jpg">
 
-- I'm **18** years old, and I live in *Argentina* 🇦🇷 ⭐⭐⭐. <br>
+- I'm **18** years old, and I live in ***Argentina*** 🇦🇷 ⭐⭐⭐. <br>
 
 - I like sports ⚽, music :notes:, reading :books: and watching series :clapper:. <br>
 
@@ -18,7 +18,7 @@
 
 ##
 
-# Find me in [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/C30477D6-336B-46B0-B594-780BA953D7ED.PNG" width=35>](https://www.instagram.com/tobiass.p/) and [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/81AAE124-0B8F-4C13-B814-09BCAB1E2FAA.PNG" width=35>](https://www.linkedin.com/in/tob%C3%ADas-pagano-05b810268/) !
+# Find me in [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/C30477D6-336B-46B0-B594-780BA953D7ED.PNG" width=30>](https://www.instagram.com/tobiass.p/) and [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/81AAE124-0B8F-4C13-B814-09BCAB1E2FAA.PNG" width=30>](https://www.linkedin.com/in/tob%C3%ADas-pagano-05b810268/) !
 
 
 
