@@ -1,7 +1,7 @@
 ## Hi there people  👋
 
 
-<h1 align= "center">I'm Tobías Pagano😁</h1>
+<h1 align= "center">I'm Tobías Pagano 😁</h1>
 
 
 <img src = "https://github.com/tobiasp25/tobiasp25/blob/main/maxresdefault.jpg">
@@ -18,29 +18,4 @@
 
 ##
 
-# Find me in [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/C30477D6-336B-46B0-B594-780BA953D7ED.PNG" width=30>](https://www.instagram.com/tobiass.p/) and [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/81AAE124-0B8F-4C13-B814-09BCAB1E2FAA.PNG" width=30>](https://www.linkedin.com/in/tob%C3%ADas-pagano-05b810268/) !
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**tobiasp25/tobiasp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Find me in [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/C30477D6-336B-46B0-B594-780BA953D7ED.PNG" width=30 color='#fcb6da'>](https://www.instagram.com/tobiass.p/) and [<img src="https://github.com/tobiasp25/tobiasp25/blob/main/81AAE124-0B8F-4C13-B814-09BCAB1E2FAA.PNG" width=30>](https://www.linkedin.com/in/tob%C3%ADas-pagano-05b810268/) !
